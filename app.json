@@ -1,0 +1,6 @@
+{
+  "name": "yt-downloader",
+  "description": "PHP powered alternative for youtube-dl",
+  "repository": "https://github.com/reboot13-git/yt-downloader/",
+  "keywords": ["youtube downloader", "download youtube", "download youtube videos"]
+}
