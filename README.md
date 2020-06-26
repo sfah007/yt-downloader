@@ -1,4 +1,4 @@
-# PHP-outube-downloader
+# PHP-Youtube-downloader
 ### Deploy your own App
 
 on Heroku:
